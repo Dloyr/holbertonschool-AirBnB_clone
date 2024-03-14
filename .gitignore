@@ -7,3 +7,6 @@ file.json
 w3c_validator.py
 web_static/images/logo.png:Zone.Identifier
 web_static/images/icon.png:Zone.Identifier
+web_static/images/icon_group.png:Zone.Identifier
+web_static/images/icon_bed.png:Zone.Identifier
+web_static/images/icon_bath.png:Zone.Identifier
