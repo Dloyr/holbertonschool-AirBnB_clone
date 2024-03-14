@@ -5,3 +5,5 @@ tests/test_models/__pycache__
 tests/test_models/test_engine/__pycache__
 file.json
 w3c_validator.py
+web_static/images/logo.png:Zone.Identifier
+web_static/images/icon.png:Zone.Identifier
